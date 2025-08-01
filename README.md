@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aiueshkumar510/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aiueshkumar510/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aiueshkumar510/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/aiueshkumar510/DSA/tree/master/0268-missing-number) |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aiueshkumar510/DSA/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aiueshkumar510/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
