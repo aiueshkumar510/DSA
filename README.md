@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aiueshkumar510/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aiueshkumar510/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aiueshkumar510/DSA/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/aiueshkumar510/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aiueshkumar510/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
