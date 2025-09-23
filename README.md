@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aiueshkumar510/DSA/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/aiueshkumar510/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
